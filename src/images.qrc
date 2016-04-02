@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/cursorImg">
+        <file>mouseRot.png</file>
+        <file>mouseZoom.png</file>
+    </qresource>
+</RCC>
