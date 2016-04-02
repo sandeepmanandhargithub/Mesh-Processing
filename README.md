@@ -10,3 +10,7 @@
   
 # Demo Showcase
   https://youtu.be/gaS438qMQ-Q
+  
+## License
+
+  Licensed under the [MIT license](http://www.opensource.org/licenses/MIT) 
